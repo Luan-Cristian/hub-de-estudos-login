@@ -4,9 +4,8 @@ Tela de login moderna e interativa desenvolvida com **HTML, CSS e JavaScript**, 
 
 ---
 
-## 🚀 Demonstração
-
-> Projeto executado localmente abrindo o arquivo `index.html` em um navegador moderno.
+## 🌍 Demo Online
+👉 https://luancristian.github.io/hub-de-estudos-login/
 
 ---
 
